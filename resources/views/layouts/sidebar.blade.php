@@ -23,7 +23,7 @@
             <li class="nav-item">
                 <a href="{{ url('/employee') }}" class="nav-link {{ $activeMenu == 'user' ? 'active' : '' }}">
                     <i class="nav-icon far fa-user"></i>
-                    <p>Empolyee</p>
+                    <p>Employee</p>
                 </a>
             </li>
 
